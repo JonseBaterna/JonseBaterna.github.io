@@ -1,0 +1,5 @@
+.container-fluid{
+	color: red;
+	display: inline-block;
+	min-width: 768px;
+}
